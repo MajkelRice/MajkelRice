@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Michał, a dedicated developer with a strong passion for all round development. I specialize in writing clean, efficient code in Python and Java, and I build dynamic, responsive user interfaces with React. Always curious and driven, I’m constantly exploring new technologies to sharpen my skills and create reliable, high-performance systems.
+I'm **Michał**, a dedicated developer with a strong passion for **all round development**. I specialize in writing clean, efficient code in **Python** and **Java**, and I build dynamic, responsive user interfaces with **React**. Always curious and driven, I’m constantly exploring new technologies to sharpen my skills and create reliable, high-performance systems.
 
 # Contact
 
@@ -20,4 +20,4 @@ Backend
 
 Tools
 
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/) [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/) [![Linux](https://skillicons.dev/icons?i=linux&theme=light)](https://www.linux.org/)
