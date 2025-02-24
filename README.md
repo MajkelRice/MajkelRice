@@ -6,7 +6,7 @@ I'm Michał, a dedicated developer with a strong passion for all round developme
 
 You can contact me on michalryz2003@gmail.com or on my linked in page.
 
-[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:michalryz2003@gmail.com) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://kotlinlang.org)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:michalryz2003@gmail.com) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/michal-ryz/)
 
 # 💻 Tech Stack:
 
